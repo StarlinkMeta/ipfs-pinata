@@ -1,0 +1,34 @@
+{
+    "name": "SATE-0002",
+    "description": "Test SATE NFT. Powered by Starlink Ecosystem - The first gamified 3D space metaverse platform.",
+    "external url": "https://www.starltoken.com",
+    "animation_url": "https://starlink.mypinata.cloud/ipfs/QmYpBPxcWdri4hqMJP1RFbobZ6La2ue8nizWDnRgXpxDFT",
+    "image": "https://starlink.mypinata.cloud/ipfs/QmY3AKh9Mf2hXxvtusLepm9i76rpGkyvPDzSZa1UaaAcET",
+    "attributes": [
+      {
+        "trait_type": "Creator",
+        "value": "Woof Decentra"
+      },
+      {
+        "trait_type": "Social",
+        "value": "https://twitter.com/woof_decentra"
+      },
+      {
+        "trait_type": "Weight",
+        "value": "6500"
+      },
+      {
+        "trait_type": "Height",
+        "value": "2000"
+      },
+      {
+        "trait_type": "Speed",
+        "value": "11300"
+      },
+      {
+        "trait_type": "Type",
+        "value": "LEO"
+      }
+    ],
+    "src_url": "https://starlink.mypinata.cloud/ipfs/Qmf1HWzirLn8K3puQokz2mA5svxz65iBzJyzn1KaVpzHEU"
+  }
